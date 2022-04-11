@@ -1,8 +1,8 @@
 # rbasename
 
-Was inspired in [GNU coreutils](https://github.com/coreutils/coreutils) `basename` program.
+It was inspired in [GNU coreutils](https://github.com/coreutils/coreutils) `basename` program.
 
-The purpose of this project is learn about rust.
+The purpose of this project is to learn about rust.
 
 rbasename strip directories from filename and trailing suffix if specified.
  
